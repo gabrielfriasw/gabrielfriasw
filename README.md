@@ -1,6 +1,6 @@
 
 # Sobre
-Software Engineer focado em ecossistemas educacionais (Founder @ Elevare) e Soluções Corporativas (@ Cognito). Atuando com desenvolvimento de sistemas e tecnologia desde os seis anos de idade.
+Software Engineer focado em ecossistemas educacionais (Founder @ Elevare) e Soluções Corporativas (@ Kolvexo). Atuando com desenvolvimento de sistemas e tecnologia desde os seis anos de idade.
 
 ## Frontend
 
