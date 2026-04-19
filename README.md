@@ -32,10 +32,3 @@ Vulcano LAB é um sistema de gestão feito sob demanda para a Vulcano Crosstrain
 A Alma de Safira é uma loja virtual, que permite tanto o cliente fazer o pedido de itens integrado via whatsapp, quanto a gestão de produtos da loja.
 
 
-## 📫 Contato
-
-<p align="left">
-  <a href="mailto:gabrielfrias@kolvexo.com"><img src="https://img.shields.io/badge/Email_Kolvexo-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="mailto:contato@elevareedu.com.br"><img src="https://img.shields.io/badge/Email_Elevare-007ACC?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/ogabrielfrias" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</p>
