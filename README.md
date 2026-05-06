@@ -1,34 +1,79 @@
+<div align="center">
 
-# Sobre
-Software Engineer focado em ecossistemas educacionais (@ Elevare) e Soluções Corporativas (@ Kolvexo). Atuando com desenvolvimento de sistemas e tecnologia desde os seis anos de idade.
+```
+╔══════════════════════════════════════════════════════════╗
+║           A necessidade é a mãe da inovação.             ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-## Frontend
+# Software Engineer
 
-<img width="50" height="50" alt="256px-React svg" src="https://github.com/user-attachments/assets/e8621473-8fef-48c9-83ee-4784ac16e971" />
-<img width="50" height="50" alt="Typescript" src="https://github.com/user-attachments/assets/c692ae49-4460-4524-87a0-523f0a15fa83" />
-<img width="50" height="50" alt="vitejs-svgrepo-com" src="https://github.com/user-attachments/assets/a9fc7e87-b194-42d3-9c0c-d61781a2d730" /> 
+**Ecossistemas Educacionais** @ [Elevare](https://github.com/Elevare-Edu) · **Soluções Corporativas** @ [Kolvexo]
 
-## Backend
-<img width="98" height="95" alt="image" src="https://github.com/user-attachments/assets/9fd701eb-d20c-4c26-bf11-98c536c4ca1d" />
-<img width="50" height="50" alt="Typescript" src="https://github.com/user-attachments/assets/c692ae49-4460-4524-87a0-523f0a15fa83" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/2d47d867-17eb-40e8-aeea-e66a75dc4d44" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/6e2349b8-734a-45b1-83ed-4e3472093027" />
+</div>
 
-### Infraestrutura e Ferramentas
-<img width="50" height="50" alt="firebase" src="https://github.com/user-attachments/assets/829b2b64-3d3b-4c71-96f3-4beb17d52a15" />
-<img width="50" height="50" alt="supabase" src="https://github.com/user-attachments/assets/d3b1c94b-3492-46a7-9e71-8be35b5f221a" />
-<img width="50" height="50" alt="openCV" src="https://github.com/user-attachments/assets/5e9b9800-5643-4ce6-8d99-be17d670831a" />
+---
 
+## ` stack `
 
-## Projetos desenvolvidos
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### Elevare Edu  <img width="20" height="20" alt="main-logo" src="https://github.com/user-attachments/assets/a9e54f23-7dcc-4878-bfc2-cf7c8c6688b9" /> <img width="20" height="20" alt="elevare-home" src="https://github.com/user-attachments/assets/2cd1d9d1-01de-4a06-b900-fb61c3d32ed1" /> <img width="20" height="20" alt="elevare-space" src="https://github.com/user-attachments/assets/fc94913e-4f91-493e-a836-bf0d917371ad" /> <img width="20" height="20" alt="FACE SYSTEM LOGO" src="https://github.com/user-attachments/assets/7f58b2b4-f019-4a8a-9318-bfcbb2d70d3b" />
-A Elevare é um ecossistema de gestão escolar focado em melhorar a eficiência administrativa e pedagógica nas escolas. Dividido em três módulos: Elevare Edu (portal da escola), Elevare Home (portal do responsável) e Elevare Space (portal do aluno). Além disso, conta com o Elevare Facial System, um programa desenvolvido em Python para fazer o reconhecimento facial dos alunos para integrações com catracas (beta). 
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Vulcano Lab <img width="20" height="20" alt="vulcanolab" src="https://github.com/user-attachments/assets/6db21039-4b1e-4708-bb21-925c0666a4d0" />
-Vulcano LAB é um sistema de gestão feito sob demanda para a Vulcano Crosstraining. A academia pode fazer a gestão completa de alunos, avaliações físicas, contratos, turmas (horários), WOD's, treinos, e muito mais!
+### Infraestrutura & Ferramentas
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### Alma de Safira <img width="20" height="20" alt="almadesafira" src="https://github.com/user-attachments/assets/0784b9fe-a691-4d59-bbe4-797e4bd405d3" />
-A Alma de Safira é uma loja virtual, que permite tanto o cliente fazer o pedido de itens integrado via whatsapp, quanto a gestão de produtos da loja.
+---
 
+## ` projetos `
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Elevare Edu
+> *Ecossistema de gestão escolar*
+
+Plataforma modular dividida em três portais — **Edu** (escola), **Home** (responsável) e **Space** (aluno) — com foco em eficiência administrativa e pedagógica.
+
+Inclui o **Elevare Facial System**, um módulo de reconhecimento facial em Python para integração com catracas *(beta)*.
+
+</td>
+<td width="50%" valign="top">
+
+### Vulcano Lab
+> *Gestão para academias de crosstraining*
+
+Sistema sob demanda para a **Vulcano Crosstraining** com gestão completa de alunos, avaliações físicas, contratos, turmas, WODs e treinos.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Alma de Safira
+> *Loja virtual integrada*
+
+E-commerce com fluxo de pedidos integrado via **WhatsApp** e painel completo de gestão de produtos para a loja.
+
+</td>
+<td width="50%" valign="top">
+
+### Boneo
+> *ERP para confecção de bonés e camisetas*
+
+Sistema de gestão focado em **simplicidade e intuitividade** para o dia a dia de quem produz. Do pedido à entrega, sem complexidade desnecessária.
+
+</td>
+</tr>
+</table>
+
+---
