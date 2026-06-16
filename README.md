@@ -5,11 +5,6 @@
 ║           A necessidade é a mãe da inovação.             ║
 ╚══════════════════════════════════════════════════════════╝
 ```
-
-# Software Engineer
-
-**Ecossistemas Educacionais** @ [Elevare](https://github.com/Elevare-Edu) · **Soluções Corporativas** @ [Kolvexo]
-
 </div>
 
 ---
