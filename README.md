@@ -4,8 +4,9 @@ software · systems · products
 
 <sub>I build software around real problems.</sub>
 
-</div><br>┌─ gabriel@dev
-│
+</div><br>
+
+┌─ gabriel@dev
 ├─ focus     product engineering
 ├─ building  useful software
 └─ status    always shipping
@@ -18,7 +19,7 @@ School management powered by pedagogical intelligence.
 
 A school management platform focused on complete pedagogical intelligence, connecting academic data, school operations and meaningful insights in a single ecosystem.
 
-"TypeScript" "React" "Node.js" "PostgreSQL"
+`TypeScript; React; Node.js; PostgreSQL`
 
 <br>"eDEX REVIVAL" (https://github.com/gabrielfriasw/edex-revival)
 
