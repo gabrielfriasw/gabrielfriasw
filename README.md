@@ -5,7 +5,9 @@
 </div>
 <br>
 ## 💻 Selected Work
+
 ### 🎓 Elevare
+
 > **School management powered by pedagogical intelligence.**
 A school management platform focused on complete pedagogical intelligence, connecting academic data, school operations and meaningful insights in a single ecosystem.
 <br>
