@@ -3,6 +3,8 @@
   <p><b>Software · Systems · Products</b></p>
   <p><i>I build software around real problems.</i></p>
 </div>
+
+
 ## 💻 Selected Work
 ### 🎓 Elevare
 > **School management powered by pedagogical intelligence.**
