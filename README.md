@@ -1,74 +1,90 @@
-<div align="center">
+<div align="center">GABRIEL FRIAS
 
-```
-╔══════════════════════════════════════════════════════════╗
-║           A necessidade é a mãe da inovação.             ║
-╚══════════════════════════════════════════════════════════╝
-```
-</div>
+software · systems · products
 
----
+<sub>I build software around real problems.</sub>
 
-## ` stack `
+</div><br>┌─ gabriel@dev
+│
+├─ focus     product engineering
+├─ building  useful software
+└─ status    always shipping
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<br>"01 / selected work"
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+ELEVARE
 
-### Infraestrutura & Ferramentas
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+School management powered by pedagogical intelligence.
 
----
+A school management platform focused on complete pedagogical intelligence, connecting academic data, school operations and meaningful insights in a single ecosystem.
 
-## ` projetos `
+"TypeScript" "React" "Node.js" "PostgreSQL"
+
+<br>"eDEX REVIVAL" (https://github.com/gabrielfriasw/edex-revival)
+
+A sci-fi developer workspace built beyond the conventional desktop.
+
+A revival and continuation of the original eDEX-UI, evolving the concept into a complete developer cockpit with terminal, system monitoring, file operations, editor, SSH, widgets and multi-monitor workflows.
+
+"JavaScript" "Electron" "Node.js"
+
+"Source" (https://github.com/gabrielfriasw/edex-revival) · "Releases" (https://github.com/gabrielfriasw/edex-revival/releases)
+
+<br>"KOLAKI" (https://github.com/gabrielfriasw/kolaki)
+
+WhatsApp stickers without ads, accounts or distractions.
+
+A native Android sticker creator built around a simple idea: creating and installing stickers shouldn't be annoying.
+
+Everything happens locally on the device. No ads, no accounts and no unnecessary permissions.
+
+"Kotlin" "Jetpack Compose" "Android"
+
+"Source" (https://github.com/gabrielfriasw/kolaki) · "Download" (https://github.com/gabrielfriasw/kolaki/releases/latest)
+
+<br>BONEO
+
+Production management without unnecessary complexity.
+
+An ERP designed for apparel manufacturing, keeping the workflow from order to production to delivery simple and visible.
+
+"TypeScript" "React" "Node.js"
+
+<br>"02 / toolkit"
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### Elevare Edu
-> *Ecossistema de gestão escolar*
-
-Plataforma modular dividida em três portais — **Edu** (escola), **Home** (responsável) e **Space** (aluno) — com foco em eficiência administrativa e pedagógica.
-
-Inclui o **Elevare Facial System**, um módulo de reconhecimento facial em Python para integração com catracas *(beta)*.
-
-</td>
-<td width="50%" valign="top">
-
-### Vulcano Lab
-> *Gestão para academias de crosstraining*
-
-Sistema sob demanda para a **Vulcano Crosstraining** com gestão completa de alunos, avaliações físicas, contratos, turmas, WODs e treinos.
-
-</td>
+<td><sub>LANGUAGES</sub></td>
+<td><code>TypeScript</code> &nbsp; <code>Python</code> &nbsp; <code>Kotlin</code> &nbsp; <code>Swift</code></td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### Alma de Safira
-> *Loja virtual integrada*
-
-E-commerce com fluxo de pedidos integrado via **WhatsApp** e painel completo de gestão de produtos para a loja.
-
-</td>
-<td width="50%" valign="top">
-
-### Boneo
-> *ERP para confecção de bonés e camisetas*
-
-Sistema de gestão focado em **simplicidade e intuitividade** para o dia a dia de quem produz. Do pedido à entrega, sem complexidade desnecessária.
-
-</td>
+<td><sub>WEB</sub></td>
+<td><code>React</code> &nbsp; <code>Vite</code> &nbsp; <code>Node.js</code></td>
 </tr>
-</table>
+<tr>
+<td><sub>MOBILE</sub></td>
+<td><code>Kotlin</code> &nbsp; <code>Swift</code> &nbsp; <code>Jetpack Compose</code></td>
+</tr>
+<tr>
+<td><sub>DATA & INFRA</sub></td>
+<td><code>PostgreSQL</code> &nbsp; <code>Firebase</code></td>
+</tr>
+<tr>
+<td><sub>COMPUTER VISION</sub></td>
+<td><code>OpenCV</code></td>
+</tr>
+</table><br>"03 / about"
 
----
+I build software around real problems, from the interfaces people interact with to the systems running behind them.
+
+My work spans web applications, native mobile experiences, backend systems and computer vision.
+
+I care about software that feels simple, intentional and useful.
+
+<br><div align="center"><sub>necessity is the mother of invention.</sub>
+
+<br><br>
+
+"gabrielfriasw © 2026"
+
+</div>
