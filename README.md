@@ -32,10 +32,10 @@ An ERP designed for apparel manufacturing, keeping the workflow from order to pr
 
 | Category | Technologies |
 | :--- | :--- |
-| ⌨️ **Languages** | `TypeScript` • `Python` • `Kotlin` • `Swift` |
+| ⌨️ **Languages** | `TypeScript` •  `Go` • `Python` • `Kotlin` • `Swift`  |
 | 🌐 **Web** | `React` • `Vite` • `Node.js` |
 | 📱 **Mobile** | `Kotlin` • `Swift` • `Jetpack Compose` |
-| 🗄️ **Data & Infra** | `PostgreSQL` • `Firebase` |
+| 🗄️ **Data & Infra** | `PostgreSQL` • `Firebase` |• `Go`
 | 👁️ **Computer Vision** | `OpenCV` |
 
 ## 👤 About
